@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoDocstring",
+		"GitGutter",
+		"MarkdownPreview",
+		"One Dark Color Scheme",
+		"Package Control",
+		"Pretty JSON",
+		"PyYapf Python Formatter",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-markdownlint",
+		"SublimeLinter-json",
+		"SublimeLinter-pycodestyle",
+		"SublimeLinter-pydocstyle",
+		"SublimeLinter-pyflakes",
+		"SublimeLinter-pylint",
+		"Theme - Flatland",
+		"Theme - Gravity"
+	]
+}
